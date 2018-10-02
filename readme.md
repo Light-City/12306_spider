@@ -27,7 +27,7 @@
 
 **车票查到了，离心中的远方还远？** 
 
-**Clos To Close**
+**Close To Close**
 
 ## 1.项目架构
 
